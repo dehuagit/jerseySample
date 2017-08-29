@@ -3,7 +3,7 @@
 <h2>Hello Jersey</h2>
 
 
-It has a git project
+It has a git project TWO
 <ul>
 <li><a href="rest/order">Click Here</a></li>  
 <li><a href="rest/hello">simple hello</a></li>  
