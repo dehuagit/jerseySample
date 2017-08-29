@@ -7,7 +7,7 @@
 <ul>
 <li><a href="rest/order">Click Here</a></li>  
 <li><a href="rest/hello">simple hello</a></li>  
-<li><a href="test/hello">simple srvlet</a></li>  
+<li><a href="test/hello">simple srvlet Cool</a></li>  
 <li><a href="rest/HelloService/andy">Click Parameter Here</a></li>  
 <li><a href="rest/product/test">Product test Parameter Here</a></li>
 </ul>
